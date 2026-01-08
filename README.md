@@ -42,5 +42,5 @@ fake-headline-generator/
 -Taking user input from the terminal
 
 👩‍💻 Author : nirjala
-3. Run the script: python fake_headline_generate.py
+
    
